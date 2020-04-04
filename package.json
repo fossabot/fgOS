@@ -1,0 +1,24 @@
+{
+  "name": "fgos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.go",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "git+https://github.com/fgsoftware1/fgOS.git",
+  "author": "Gabriel Aguiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgsoftware1/fgOS/issues"
+  },
+  "homepage": "https://github.com/fgsoftware1/fgOS#readme",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "gulp": "^4.0.2",
+    "jquery": "^3.4.1",
+    "webpack": "^4.42.1",
+    "yarn": "^1.22.4"
+  },
+  "private": false
+}
