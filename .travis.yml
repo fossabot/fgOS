@@ -1,9 +1,5 @@
 matrix:
   include:
-    - language: dart
-dart:
-- stable
-dart_task:
-- test: --platform vm
-- test: --platform dartium
-- install_dartium: true
+    - language: php
+php:
+- 7.0

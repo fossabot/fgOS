@@ -1,0 +1,23 @@
+{
+  "name": "fgos",
+  "description": "",
+  "main": "./src/index.php",
+  "authors": [
+    "Gabriel Aguiar"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fgsoftware1/fgOS",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "grunt-cli": "^1.3.2",
+    "jquery": "^3.4.1",
+    "mocha": "^7.1.1"
+  }
+}
